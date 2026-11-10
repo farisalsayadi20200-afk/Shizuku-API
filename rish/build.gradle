@@ -1,4 +1,4 @@
-plugins {
+rish -c 'ls'plugins {
     id('com.android.library')
 }
 
